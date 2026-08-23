@@ -1,2 +1,4 @@
 # First program/test git and Python
-print("Hell0, World!")
+hello = "Hello, World Python and ")
+world = "IBM Data Science course on Coursera!"
+print Hello + World
